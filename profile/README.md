@@ -6,4 +6,4 @@ TODO
 
 test img
 
-![PIG](img/pig.jpg)
+![PIG](./img/pig.jpg)
