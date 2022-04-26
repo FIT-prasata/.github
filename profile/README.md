@@ -6,4 +6,4 @@ TODO
 
 test img
 
-![PIG](./img/pig.jpg)
+![PIG](https://github.com/FIT-prasata/.github/blob/master/profile/img/pig.jpg?raw=true)
