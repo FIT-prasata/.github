@@ -1,4 +1,4 @@
-## VUT-prasata
+## FIT-prasata
 
 👋  Welcome to the VUT-prasata repository. </br>
 🦸‍♂️  We are a team of tech guys currently stu***dying*** BUT FACULTY OF INFORMATION TECHNOLOGY in Brno </br>
