@@ -10,6 +10,8 @@
 | Course | Project name | Author |
 |:------:|:------------:|:------:|
 | IJC | [Projects 2022](https://github.com/FIT-prasata/IJC) | [@lukaszavadil1](https://github.com/lukaszavadil1) |
-| IOS | [Project 1 2022](https://github.com/FIT-prasata/IOS-1) | [@marekprochazka](https://github.com/marekprochazka) |
+| IOS | [Project 1 2022](https://github.com/FIT-prasata/marekprochazka-IOS-1) | [@marekprochazka](https://github.com/marekprochazka) |
+| IZP | [Project 1 2022](https://github.com/FIT-prasata/marekprochazka-IZP-1) | [@marekprochazka](https://github.com/marekprochazka) |
+| IZP | [Project 2 2022](https://github.com/FIT-prasata/team-izp-2) | Whole team |
 
 
