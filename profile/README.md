@@ -21,6 +21,7 @@
 |:------:|:------------:|:------:|
 | IJC | [Both projects 2022](https://github.com/FIT-prasata/IJC) | [@lukaszavadil1](https://github.com/lukaszavadil1) |
 | IOS | [Project 1 2022](https://github.com/FIT-prasata/marekprochazka-IOS-1) | [@marekprochazka](https://github.com/marekprochazka) |
+| IOS | [Project 2 2022](https://github.com/FIT-prasata/marekprochazka-IOS-2) | [@marekprochazka](https://github.com/marekprochazka) |
 | INC | [Project 2022](https://github.com/FIT-prasata/marekprochazka-INC) | [@marekprochazka](https://github.com/marekprochazka) |
 
 
