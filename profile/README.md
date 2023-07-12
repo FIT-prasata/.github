@@ -25,3 +25,9 @@
 | INC | [Project 2022](https://github.com/FIT-prasata/marekprochazka-INC) | [@marekprochazka](https://github.com/marekprochazka) |
 
 
+---
+### 4th Semester
+
+| Course | Project name | Author |
+|:------:|:------------:|:------:|
+| ICS | [TEAM PROJECT](https://github.com/FIT-prasata/ICS-2023) | Whole team |
