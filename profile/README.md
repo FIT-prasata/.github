@@ -29,7 +29,7 @@
 | Course | Project name | Author |
 |:------:|:------------:|:------:|
 | INP | [Brainf*ck interpreter in VHDL](https://github.com/FIT-prasata/marekprochazka-inp) | [@marekprochazka](https://github.com/marekprochazka) |
-| IFJ | [C🤮mpipler (didn't endup well 🙃)](https://github.com/FIT-prasata/IFJ-2022) | Whole team |
+| IFJ | [C🤮mpiler (didn't endup well 🙃)](https://github.com/FIT-prasata/IFJ-2022) | Whole team |
 
 ---
 ### 4th Semester
