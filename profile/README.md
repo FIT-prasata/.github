@@ -5,6 +5,9 @@
 💻  You can find here source codes of our finished projects (not the on-going ones) </br>
 ⚠   We highly encourage visitors to use our solutions as an inspiration on their own project but not to straigt up copy them
 
+__☠ One warrior has already fallen ☠__  <br />
+__☠ 3 left to go ☠__
+
 ## Finished projects to look on
 ---
 ### 1st Semester
