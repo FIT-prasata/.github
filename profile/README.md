@@ -3,7 +3,7 @@
 👋  Welcome to the FIT-prasata repository. </br>
 🦸‍♂️  We are a team of tech guys currently stu***dying*** BUT FACULTY OF INFORMATION TECHNOLOGY in Brno </br>
 💻  You can find here source codes of our finished projects (not the on-going ones) </br>
-⚠   We highly encourage visitors to use our solutions as an inspiration on their own project but not to straigt up copy them
+⚠   You can use anything you find here as an inspiration on your own project but pls don't straight up copy our shit
 
 __☠ One warrior has already fallen ☠__  <br />
 __☠ 3 left to go ☠__
