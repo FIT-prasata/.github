@@ -23,7 +23,13 @@
 | IOS | [Project 1 2022](https://github.com/FIT-prasata/marekprochazka-IOS-1) | [@marekprochazka](https://github.com/marekprochazka) |
 | IOS | [Project 2 2022](https://github.com/FIT-prasata/marekprochazka-IOS-2) | [@marekprochazka](https://github.com/marekprochazka) |
 | INC | [Project 2022](https://github.com/FIT-prasata/marekprochazka-INC) | [@marekprochazka](https://github.com/marekprochazka) |
+---
+### 3rd Semester
 
+| Course | Project name | Author |
+|:------:|:------------:|:------:|
+| INP | [Brainf*ck interpreter in VHDL](https://github.com/FIT-prasata/marekprochazka-inp) | [@marekprochazka](https://github.com/marekprochazka) |
+| IFJ | [Interpreter (didn't endup well 🙃)](https://github.com/FIT-prasata/IFJ-2022) | Whole team |
 
 ---
 ### 4th Semester
